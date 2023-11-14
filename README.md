@@ -19,4 +19,5 @@ Este repositório no GitHub é dedicado a compartilhar projetos e aprendizados. 
 <div>
 
 
- ![Snake animation](https://github.com/letibraga/letibraga/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/letibraga/letibraga/blob/output/github-contribution-grid-snake.svg)
