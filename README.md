@@ -9,8 +9,8 @@ Este repositório no GitHub é dedicado a compartilhar projetos e aprendizados. 
 </ul>
 
 
-### 🧐 Estatísticas 
-
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
  <div>
  <p align="left">
    <a href="https://github.com/letibraga">
