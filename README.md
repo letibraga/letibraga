@@ -11,7 +11,7 @@ A capacidade de analisar dados, identificar padrões e comunicar insights de man
 ### 🧐 Minhas estatísticas no Github
 
  <div>
- <p align="center">
+ <p align="left">
    <a href="https://github.com/letibraga">
    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=letibraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letibraga&layout=compact&langs_count=16&theme=dracula"/>
