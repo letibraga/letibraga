@@ -17,4 +17,4 @@ Este repositório no GitHub é dedicado a compartilhar projetos e aprendizados. 
    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=letibraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letibraga&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-![image](https://github.com/letibraga/letibraga/assets/150758253/4ed27476-c89b-4497-a126-1cc811f531c7)
+
