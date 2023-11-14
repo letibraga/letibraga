@@ -9,7 +9,7 @@ Este repositório no GitHub é dedicado a compartilhar projetos e aprendizados. 
 </ul>
 
 
-<h2 align="center" >Estatísticas⚡</h2>
+<h2 align="center" >Estatísticas ⚡</h2>
 <br>
  <div>
  <p align="left">
