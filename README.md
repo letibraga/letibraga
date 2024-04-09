@@ -18,3 +18,9 @@ Este repositório no GitHub é dedicado para compartilhar projetos e aprendizado
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letibraga&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
+## **Ferramentas**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img title="MySQL" alt="MySQL" width="40px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
