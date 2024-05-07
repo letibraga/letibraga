@@ -1,7 +1,12 @@
-# Olá 👋, 
+# Olá! 👋 Prazer, eu sou a Letícia!
 
-Meu nome é Letícia, sou uma profissional com uma formação sólida em Engenharia Civil que descobriu uma paixão crescente pela Análise de Dados. Fascinada pela coleta de insights profundos, decidi redirecionar minha carreira para explorar este vasto e dinâmico campo.
+<h2 align="left">🗨 Sobre mim:</h2>
 
+- 👨‍🎓 Formada em Engenharia Civil pela FMT 
+- 👨‍💻 Migrei para a área de Dados em 2023
+- 📊 Analista de Dados voluntária no Instituto Bushido
+- 🔭 Atualmente estou focada na área de Análise de Dados
+  
 </ul>
 Estou constantemente aprimorando minha capacidade de analisar dados, identificar padrões e comunicar insights de forma clara e impactante.      
 Este repositório no GitHub é dedicado para compartilhar projetos e aprendizados. Sinta-se à vontade para explorar e acompanhar meu progresso. </ul>
@@ -18,17 +23,19 @@ Este repositório no GitHub é dedicado para compartilhar projetos e aprendizado
    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letibraga&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-## **Ferramentas** 🛠️
+<h2 align="left">🖥 Tech Skills</h2>
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-<img title="MySQL" alt="MySQL" width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img title="SQLite" alt="SQLite" width="70px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-<img title="Microsoft Excel" alt="Microsoft Excel" width="100px" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img title="SQL" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img title="MySQL" alt="MySQL" width="80px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img title="SQLite" alt="SQLite" width="80px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
 
-## Conecte-se comigo
+<h2>Conecte-se comigo </h2>
 
- <a href = "mailto:leticiiabraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/leticiiabraga/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/leticiiabraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leticiabraga" height="30" width="40" /></a>
+<a href = "mailto:leticiiabraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
